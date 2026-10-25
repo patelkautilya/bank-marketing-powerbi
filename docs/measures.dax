@@ -1,0 +1,6 @@
+// Table name: campaigns (rename the source query to campaigns).
+Subscription Rate = DIVIDE(SUM(campaigns[Subscribed]), SUM(campaigns[Records]))
+// Format: Percentage, 2 decimal places.
+
+Average Contacts per Record = DIVIDE(SUM(campaigns[CampaignContacts]), SUM(campaigns[Records]))
+// Format: Decimal number, 2 decimal places.

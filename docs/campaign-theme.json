@@ -1,0 +1,7 @@
+{
+  "name": "Campaign Insights",
+  "dataColors": ["#0F766E", "#F59E0B", "#7C3AED", "#E11D48", "#2563EB", "#10B981", "#64748B"],
+  "background": "#F3F7F7",
+  "foreground": "#132C32",
+  "tableAccent": "#0F766E"
+}

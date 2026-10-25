@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+data/bank-full.csv
+data/bank-marketing.zip
